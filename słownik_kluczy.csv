@@ -1,0 +1,80 @@
+Family,Phrase,Phrase number
+Sound family,acousmatic sound,1
+Sound family,diegetic sound,2
+Sound family,dynamic sound,3
+Sound family,sonic,4
+Sound family,sonic enviornment,5
+Sound family,sound,6
+Sound family,sound design,7
+Sound family,soundscape,8
+Sound family,soundtrack,9
+Audio family,audio,10
+Audio family,auditory,11
+Audio family,auditorial,12
+Audio family,interactive audio,13
+Audio family,audio design,14
+Audio family,audio spectrum,15
+Audio family,audio space,16
+Michael Cullen sound families,ambience,17
+Michael Cullen sound families,ambient,18
+Michael Cullen sound families,background,19
+Michael Cullen sound families,bg,20
+Michael Cullen sound families,dialogue,21
+Michael Cullen sound families,dx,22
+Michael Cullen sound families,foley,23
+Michael Cullen sound families,fol,24
+Michael Cullen sound families,music,25
+Michael Cullen sound families,mx,26
+Michael Cullen sound families,sound effect,27
+Michael Cullen sound families,sfx,28
+Verbum family,adaptive dialogue,29
+Verbum family,localisation,30
+Verbum family,speech,31
+Verbum family,spoken word,32
+Verbum family,verbal,33
+Verbum family,verbum,34
+Verbum family,voice,35
+Verbum family,voice acting,36
+Verbum family,voice over,37
+Music theory family,compose,38
+Music theory family,melody,39
+Music theory family,harmony,40
+Music theory family,harmonic,41
+Music theory family,rhythym,42
+Music theory family,rhythmic,43
+Music theory family,theme,44
+Music theory family,musical phrase,45
+Music theory family,leitmotiff,46
+Music theory family, tone,47
+Music theory family,semitone,48
+Music theory family,tempo,49
+Music theory family,key signature,50
+Music theory family, bar,51
+Music theory family,note,52
+Music theory family,instrument,53
+Music theory family,music form,54
+Pragmatic terms family, beat,55
+Pragmatic terms family,bpm,56
+Pragmatic terms family,beats per minute,57
+Pragmatic terms family,compression,58
+Pragmatic terms family,echo,59
+Pragmatic terms family,hertz,60
+Pragmatic terms family,hz,61
+Pragmatic terms family, ost,62
+Pragmatic terms family,pitch shift,63
+Pragmatic terms family,track,64
+Pragmatic terms family,tune,65
+Pragmatic terms family,lufs,66
+Pragmatic terms family,db,67
+Pragmatic terms family, db,68
+Pragmatic terms family,acoustic,69
+Pragmatic terms family,acoustic wave,70
+Perception terms family,hear,71
+Perception terms family,listen,72
+Perception terms family,noise,73
+Perception terms family,noisy,74
+Perception terms family,silent,75
+Perception terms family,silence,76
+Perception terms family,quiet,77
+Perception terms family,track,78
+Perception terms family,track,79
